@@ -1,9 +1,9 @@
 
 
 # Test Automation Project
-## TestDevLab Technical Task
 
-Test Automation framework in maven using Java & Selenium is created with:
+
+Maven Test Automation framework using Java & Selenium
 
 
 
